@@ -13,11 +13,11 @@
 <li><a title="Carl Friedrich Gauss" href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss">Carl Friedrich Gauss</a>&nbsp;(curvature, theory of surfaces, intrinsic vs. extrinsic)</li>
 </ul>
 <ul>
-<li><a class="mw-redirect" title="Martin Kruskal" href="https://en.wikipedia.org/wiki/Martin_Kruskal">Martin Kruskal</a>&nbsp;(inverse scattering transform; see also parent list)</li>
+<li><a class="mw-redirect" title="Martin Kruskal" href="https://en.wikipedia.org/wiki/Martin_Kruskal">Martin Kruskal</a>&nbsp;(inverse scattering transform)</li>
 </ul>
 <ul>
 <li><a class="mw-redirect" title="Joseph Louis Lagrange" href="https://en.wikipedia.org/wiki/Joseph_Louis_Lagrange">Joseph Louis Lagrange</a>&nbsp;(Lagrangian mechanics, Euler-Lagrange equation)</li>
-<li><a title="Tullio Levi-Civita" href="https://en.wikipedia.org/wiki/Tullio_Levi-Civita">Tullio Levi-Civita</a>&nbsp;(tensor calculus, Riemannian geometry; see also parent list)</li>
+<li><a title="Tullio Levi-Civita" href="https://en.wikipedia.org/wiki/Tullio_Levi-Civita">Tullio Levi-Civita</a>&nbsp;(tensor calculus, Riemannian geometry)</li>
 <li><a title="Andr&eacute; Lichnerowicz" href="https://en.wikipedia.org/wiki/Andr%C3%A9_Lichnerowicz">Andr&eacute; Lichnerowicz</a>&nbsp;(tensor calculus, transformation groups)</li>
 </ul>
 <ul>
@@ -32,11 +32,11 @@
 <li><a class="mw-redirect" title="Georg Bernhard Riemann" href="https://en.wikipedia.org/wiki/Georg_Bernhard_Riemann">Georg Bernhard Riemann</a>&nbsp;(Riemannian geometry, Riemann curvature tensor)</li>
 </ul>
 <ul>
-<li><a title="Richard Schoen" href="https://en.wikipedia.org/wiki/Richard_Schoen">Richard Schoen</a>&nbsp;(<a title="Yamabe problem" href="https://en.wikipedia.org/wiki/Yamabe_problem">Yamabe problem</a>; see also parent list)</li>
+<li><a title="Richard Schoen" href="https://en.wikipedia.org/wiki/Richard_Schoen">Richard Schoen</a>&nbsp;(<a title="Yamabe problem" href="https://en.wikipedia.org/wiki/Yamabe_problem">Yamabe problem</a>)</li>
 <li><a title="Corrado Segre" href="https://en.wikipedia.org/wiki/Corrado_Segre">Corrado Segre</a>&nbsp;(Segre classification)</li>
 </ul>
 <ul>
-<li><a class="new" title="Hugo D. Wahlquist (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Hugo_D._Wahlquist&amp;action=edit&amp;redlink=1">Hugo D. Wahlquist</a>&nbsp;(Wahlquist-Estabrook algorithm; see also parent list)</li>
-<li><a title="Hermann Weyl" href="https://en.wikipedia.org/wiki/Hermann_Weyl">Hermann Weyl</a>&nbsp;(Weyl tensor, gauge theories; see also parent list)</li>
+<li><a class="new" title="Hugo D. Wahlquist (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Hugo_D._Wahlquist&amp;action=edit&amp;redlink=1">Hugo D. Wahlquist</a>&nbsp;(Wahlquist-Estabrook algorithm)</li>
+<li><a title="Hermann Weyl" href="https://en.wikipedia.org/wiki/Hermann_Weyl">Hermann Weyl</a>&nbsp;(Weyl tensor, gauge theories; )</li>
 <li><a class="mw-redirect" title="Eugene P. Wigner" href="https://en.wikipedia.org/wiki/Eugene_P._Wigner">Eugene P. Wigner</a>&nbsp;(stabilizers in Lorentz group)</li>
 </ul>
