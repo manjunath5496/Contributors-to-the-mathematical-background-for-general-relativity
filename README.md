@@ -1,4 +1,4 @@
-<h2> Contributors to the mathematical background for general-relativity</h2>
+<h2> Contributors to the mathematical background for general relativity</h2>
 <ul>
 <li><a title="Luigi Bianchi" href="https://en.wikipedia.org/wiki/Luigi_Bianchi">Luigi Bianchi</a>&nbsp;(Bianchi identities, Bianchi groups, differential geometry)</li>
 <li><a title="&Eacute;lie Cartan" href="https://en.wikipedia.org/wiki/%C3%89lie_Cartan">&Eacute;lie Cartan</a>&nbsp;(curvature computation, early extensions of GTR, Cartan geometries)</li>
