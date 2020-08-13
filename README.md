@@ -37,6 +37,6 @@
 </ul>
 <ul>
 <li><a class="new" title="Hugo D. Wahlquist (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Hugo_D._Wahlquist&amp;action=edit&amp;redlink=1">Hugo D. Wahlquist</a>&nbsp;(Wahlquist-Estabrook algorithm)</li>
-<li><a title="Hermann Weyl" href="https://en.wikipedia.org/wiki/Hermann_Weyl">Hermann Weyl</a>&nbsp;(Weyl tensor, gauge theories; )</li>
+<li><a title="Hermann Weyl" href="https://en.wikipedia.org/wiki/Hermann_Weyl">Hermann Weyl</a>&nbsp;(Weyl tensor, gauge theories)</li>
 <li><a class="mw-redirect" title="Eugene P. Wigner" href="https://en.wikipedia.org/wiki/Eugene_P._Wigner">Eugene P. Wigner</a>&nbsp;(stabilizers in Lorentz group)</li>
 </ul>
